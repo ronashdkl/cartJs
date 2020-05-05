@@ -1,6 +1,10 @@
-# 🚀 Welcome to your new awesome project!
+# Cart Js
 
-This project has been created using **webpack scaffold**, you can now run
+jQuery based cart management. 
+
+```
+npm start
+```
 
 ```
 npm run build
@@ -12,4 +16,4 @@ or
 yarn build
 ```
 
-to bundle your application
+to bundle this application
